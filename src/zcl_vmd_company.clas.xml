@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Customer Company Object</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_AKONT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Reconciliation Account in General Ledger</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ALTKN</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Previous Master Record Number</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ASSIGN_TEST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Assignment Test Group</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_BEGRU</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Authorization Group</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_BLNKZ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Subsidy Indicator for Determining the Reduction Rates</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_BUSAB</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Accounting Clerk Abbreviation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_CERDT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Certification date</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_CIIUCODE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Main economic activity</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_CVP_XBLCK_B</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Business Purpose Completed Flag</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_DATLZ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Date of the last interest calculation run</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_EIKTO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Our account number with the vendor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_FDGRV</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Planning group</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_FRGRP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Release Approval Group</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_GRICD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Activity Code for Gross Income Tax</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_GRIDT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Distribution Type for Employment Tax</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_GUZTE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Payment Terms Key for Credit Memos</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_HBKID</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Short Key for a House Bank</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_INTAD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Internet address of partner company clerk</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_KULTG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Probable time until check is paid</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_KVERM</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Memo</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_LNRZB</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Account number of the alternative payee</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_LNRZE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Head office account number</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_LOEVM</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Deletion Flag for Master Record (Company Code Level)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_MGRUP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Key for dunning notice grouping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_MINDK</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Minority Indicators</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_NODEL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Deletion bock for master record (company code level)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_PERNR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Personnel Number</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_PREPAY_RELEVANT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Prepayment Relevance (Vendor Master)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_QLAND</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Withholding Tax Country Key</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_QSBGR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Authority for Exemption from Withholding Tax</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_QSREC</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Vendor Recipient Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_QSSKZ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Withholding Tax Code</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_QSZDT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Validity Date for Withholding Tax Exemption Certificate</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_QSZNR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Certificate Number of the Withholding Tax Exemption</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_REPRF</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Check Flag for Double Invoices or Credit Memos</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_SPERR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Posting block for company code</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_TLFNS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Accounting clerk&apos;s telephone number at business partner</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_TLFXS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Accounting clerk&apos;s fax number at the customer/vendor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_TOGRR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Tolerance group; Invoice Verification</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_TOGRU</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Tolerance group for the business partner/G/L account</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_UZAWE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Payment method supplement</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_VZSKZ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Interest calculation indicator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_WEBTR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Bill of exchange limit (in local currency)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_XAUSZ</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Indicator for periodic account statements</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_XDEZV</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Indicator: Local processing?</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_XEDIP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Indicator: Send Payment Advices by EDI</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_XLFZB</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Indicator: Alternative payee using account number</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_XPORE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Indicator: Pay all items separately ?</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_XVERR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Indicator: Clearing between customer and vendor?</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ZAHLS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Block Key for Payment</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ZGRUP</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Key for Payment Grouping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ZINDT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Key Date of Last Interest Calculation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ZINRT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Interest Calculation Frequency in Months</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ZSABE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Clerk at vendor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ZTERM</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Terms of Payment Key</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ZUAWA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Key for sorting according to assignment numbers</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_VMD_COMPANY</CLSNAME>
+     <CMPNAME>SET_ZWELS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>List of Respected Payment Methods</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
