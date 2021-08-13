@@ -1,1 +1,1 @@
-# # Wrapper for VMD_EI_API class
+# Wrapper for VMD_EI_API class
